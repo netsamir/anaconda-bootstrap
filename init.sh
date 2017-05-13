@@ -7,4 +7,6 @@
 
 npm init
 bower init
+npm install
+bower install
 
