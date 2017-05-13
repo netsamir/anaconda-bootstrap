@@ -1,6 +1,6 @@
 {
-  "name": "mercyl_2017_v2",
-  "description": "Mercyl.com.uy",
+  "name": "anaconstrap",
+  "description": "anaconstrap.com",
   "main": "gulpfile.js",
   "authors": [
     "Samir Sadek"
@@ -12,7 +12,7 @@
     "pug",
     "sass"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/netsamir/anaconstrap",
   "private": true,
   "ignore": [
     "**/.*",

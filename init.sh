@@ -6,4 +6,5 @@
 # Version: 1.0
 
 npm init
+bower init
 

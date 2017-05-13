@@ -1,7 +1,7 @@
 {
-  "name": "mercyl_2017_v2",
+  "name": "anaconstrap",
   "version": "1.0.0",
-  "description": "Mercyl.com.uy",
+  "description": "anaconstrap.com",
   "main": "gulpfile.js",
   "scripts": {
     "test": "gulp test"
@@ -33,5 +33,13 @@
     "postcss-flexbugs-fixes": "^2.1.1",
     "rimraf": "^2.6.1",
     "vinyl-paths": "^2.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netsamir/anaconstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/netsamir/anaconstrap/issues"
+  },
+  "homepage": "https://github.com/netsamir/anaconstrap#readme"
 }
