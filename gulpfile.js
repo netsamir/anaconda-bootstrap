@@ -114,8 +114,9 @@ gulp.task('js', function(){
 });
 
 // Sass
+var sass_files = ['./src/scss/theme.scss', './src/scss/custom.sass']
 gulp.task('sass', function(){
-  return gulp.src('./src/scss/theme.scss')
+  return gulp.src(sass_files)
     .pipe(sourcemaps.init())
     .pipe(plumber())
     .pipe(sass(
